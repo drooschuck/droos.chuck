@@ -21,7 +21,7 @@ At night, I'm a content creator developing tutorials in data science for the fol
 - 📝 [**Medium Blogs**](https://data-professor.medium.com/).
 - 💻 [**GitHub**](https://github.com/dataprofessor/)
 
-In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
+In my previous role, I was as Senior Network Engineer of Bioinformatics carrying out research in computational drug discovery:
 - [**Google Scholar**](https://scholar.google.com/citations?user=df-l7zQAAAAJ&hl=en)
 - [**ORCID**](https://orcid.org/0000-0003-1040-663X)
 - [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=12039071300)
