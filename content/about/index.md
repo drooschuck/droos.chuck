@@ -19,7 +19,7 @@ In my daytime, I work as a Cloud Engineer at a UK Tech company.
 At night, I'm a content creator developing tutorials in data science for the following platforms:
 - 📺 **YouTube**: [**Data Professor**](https://youtube.com/dataprofessor/), [**Coding Professor**](https://youtube.com/codingprofessor/)
 - 📝 [**Medium Blogs**](https://data-professor.medium.com/).
-- 💻 [**GitHub**](https://github.com/dataprofessor/)
+- 💻 [**GitHub**](https://github.com/drooschuck)
 
 In my previous role, I was as Senior Network Engineer of Bioinformatics carrying out research in computational drug discovery:
 - [**Google Scholar**](https://scholar.google.com/citations?user=df-l7zQAAAAJ&hl=en)
