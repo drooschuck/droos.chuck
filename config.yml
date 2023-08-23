@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "//https://drooschuck.netlify.app/"
+baseURL: "//DroosChuck.COM/"
 title: Droos Chuck
 paginate: 5
 theme: PaperMod
@@ -79,7 +79,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/chanin-nantasenamat/"
     - name: github
-      url: "https://github.com/dataprofessor"
+      url: "https://github.com/drooschuck"
     - name: buymeacoffee
       url: "https://www.buymeacoffee.com/dataprofessor"
 
