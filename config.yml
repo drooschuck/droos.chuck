@@ -132,10 +132,10 @@ menu:
       name: Infographics
       url: /infographics/
       weight: 3
-    - identifier: tags
-      name: tags
-      url: /tags/
-     weight: 5
+    #- identifier: tags
+    #  name: tags
+    #  url: /tags/
+    # weight: 5
 
     #- identifier: example
     #  name: example.org
