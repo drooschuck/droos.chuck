@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "//DroosChuck.COM/"
+baseURL: "https://drooschuck.netlify.app/"
 title: Droos Chuck
 paginate: 5
 theme: PaperMod
